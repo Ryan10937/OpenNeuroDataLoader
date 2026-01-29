@@ -1,0 +1,9 @@
+nipy 
+nibabel 
+nilearn 
+numpy 
+scipy 
+matplotlib
+SimpleITK
+psutil
+GitPython
